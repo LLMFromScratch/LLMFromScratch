@@ -1,0 +1,9 @@
+[submodule "re_transformers"]
+	path = re_transformers
+	url = https://github.com/LLMFromScratch/re_transformers.git
+[submodule "re_diffusers"]
+	path = re_diffusers
+	url = https://github.com/LLMFromScratch/re_diffusers.git
+[submodule "re_vllm"]
+	path = re_vllm
+	url = https://github.com/LLMFromScratch/re_vllm.git
