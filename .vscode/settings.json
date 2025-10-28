@@ -1,12 +1,4 @@
 {
     "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": false,
-    "spellright.language": [
-        "en"
-    ],
-    "spellright.documentTypes": [
-        "latex",
-        "plaintext",
-        "python"
-    ]
+    "python.analysis.autoImportCompletions": false
 }
